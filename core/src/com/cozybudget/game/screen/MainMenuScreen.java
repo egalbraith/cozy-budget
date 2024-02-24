@@ -1,4 +1,4 @@
-package com.cozybudget.game.screens;
+package com.cozybudget.game.screen;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
